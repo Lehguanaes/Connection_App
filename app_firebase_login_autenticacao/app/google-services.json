@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:757957695057:android:8ca810eb4dc79251e20a70",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.example.connection_app"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAAZpInhsPrBXdNlO93B3N3ZZTca9qx9Uw"
+          "current_key": ""
         }
       ],
       "services": {
@@ -26,7 +26,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:757957695057:android:acc5c3b706f46415e20a70",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "np.com.bimalkafle.firebaseauthdemoapp"
         }
@@ -34,7 +34,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAAZpInhsPrBXdNlO93B3N3ZZTca9qx9Uw"
+          "current_key": ""
         }
       ],
       "services": {
